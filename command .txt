@@ -1,0 +1,6 @@
+gradlew.bat build --refresh-dependencies
+gradlew build --refresh-dependencies
+
+
+
+docker-compose -f mongo-db-start.yml up
